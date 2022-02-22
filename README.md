@@ -17,7 +17,6 @@
 <h3> 📜 &nbsp;Contact</h3> 
 
 [![Linkedin: Rubens Algeri](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivaldofarias)](https://www.linkedin.com/in/rubens-algeri-66a7291b3/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:badivia.f@gmail.com)](mailto:badivia.f@gmail.com)
 
 
 <!--
