@@ -10,7 +10,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RubensAlgeri&theme=tokyonight&show_icons=true&layout=default&langs_count=4" height="160px", width="400px" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rubens&theme=tokyonight&show_icons=true&layout=default&langs_count=4" height="160px", width="400px" />
 <img src="https://github-readme-stats.vercel.app/api?username=RubensAlgeri&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true&cache_seconds=4600" height="160px", width="350px" />
 </p>
 
