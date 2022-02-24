@@ -16,7 +16,7 @@
 
 <h3> 📜 &nbsp;Contact</h3> 
 
-[![Linkedin: Rubens Algeri](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubens-algeri-66a7291b3/)](https://www.linkedin.com/in/rubens-algeri-66a7291b3/)
+[![Linkedin: Rubens Algeri](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubensalgeri/)](https://www.linkedin.com/in/rubensalgeri/)
 
 
 <!--
