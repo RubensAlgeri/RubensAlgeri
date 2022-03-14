@@ -10,26 +10,15 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rubens&theme=tokyonight&show_icons=true&layout=default&langs_count=4" height="160px", width="400px" />
-<img src="https://github-readme-stats.vercel.app/api?username=RubensAlgeri&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true&cache_seconds=4600" height="160px", width="350px" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensAlgeri&layout=compact&langs_count=7&theme=dark"/>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RubensAlgeri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </p>
 
 <h3> 📜 &nbsp;Contact</h3> 
 
 [![Linkedin: Rubens Algeri](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubensalgeri/)](https://www.linkedin.com/in/rubensalgeri/)
 
+<a href="https://wakatime.com/@537b8783-c4e2-432a-a6aa-8625ff2aadba"><img src="https://wakatime.com/badge/user/537b8783-c4e2-432a-a6aa-8625ff2aadba.svg" alt="Total time coded since Jan 17 2022" /></a>
 
-<!--
-**RubensAlgeri/RubensAlgeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   
+</div>
