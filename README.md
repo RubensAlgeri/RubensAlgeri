@@ -4,10 +4,6 @@
 
 <h3>🎨 &nbsp;My skills</h3>
 
-  ![HTML](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5&logoColor=D84012)
-  ![CSS](https://img.shields.io/badge/CSS-333333?&style=flat&logo=css3&logoColor=006EB4)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=EAD41C)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="60" height="50"/>
@@ -18,6 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="50"/>
 </div>
+
+
 
 <p align="center">
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensAlgeri&layout=compact&langs_count=7&theme=dark"/>
