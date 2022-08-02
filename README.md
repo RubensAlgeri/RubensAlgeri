@@ -22,6 +22,10 @@
  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RubensAlgeri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </p>
 
+<br/>
+***
+<br/>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/rubensalgeri/">
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue" height="34px" />
