@@ -4,8 +4,8 @@
 
 <h3>🎨 &nbsp;My skills</h3>
 
-  <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="50"/>
+ <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="60" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="60" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="50"/>
@@ -23,13 +23,11 @@
 </p>
 
 <br/>
-***
+
 <br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rubensalgeri/">
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue" height="34px" />
   </a>
-</div>
-   
 </div>
