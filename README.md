@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="50"/>
 </div>
 
-
+<br/>
 
 <p align="center">
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensAlgeri&layout=compact&langs_count=7&theme=dark"/>
