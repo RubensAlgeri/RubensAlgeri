@@ -1,6 +1,6 @@
 <h3> ✒ &nbsp;About me </h3>
   
-- 🔬 &nbsp; Currently in a Full-Stack Web Dev Bootcamp by <a href="[driven.com.br](https://www.driven.com.br/)">Driven Education</a>
+- 🔬 &nbsp; Currently in a Full-Stack Web Dev Bootcamp by <a href="https://www.driven.com.br/">Driven Education</a>
 
 <h3>🎨 &nbsp;My skills</h3>
 
