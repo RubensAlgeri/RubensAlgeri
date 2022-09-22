@@ -1,6 +1,12 @@
-<h3> ✒ &nbsp;About me </h3>
-  
-- 🔬 &nbsp; Currently in a Full-Stack Web Dev Bootcamp by <a href="https://www.driven.com.br/">Driven Education</a>
+<h3> ✒ &nbsp;Sobre mim </h3>
+
+Me chamo Rubens, nasci e cresci em Laranjeiras do Sul, Paraná.
+
+Descobri a programação no primeiro semestre de engenharia elétrica, onde aprendi a lógica básica de programação utilizando C++, tive um amor á primeira vista com a programação. 
+
+Depois de alguns semestres, frustrado com a faculdade e com a área de engenharia, decidi que não iria continuá-la, foi então que lembrei da minha paixão com programação e encontrei um curso de desenvolvedor web ofertado pela <a href="https://www.driven.com.br/">Driven</a>, mostrando um novo caminho para mim. Tomei uma decisão e entrei pra Driven.
+
+No curso confirmei que essa era mesmo minha praia e aprendi muito mais do que só programar, aprendi sobre inteligência emocional, desenvolvimento comportamental e atuar em projetos tanto em grupo, quanto individuais. Graças a essa trajetória hoje estou 100% preparado para uma primeira oportunidade na carreira certa para mim, o desenvolvimento.
 
 <h3>🎨 &nbsp;My skills</h3>
 
